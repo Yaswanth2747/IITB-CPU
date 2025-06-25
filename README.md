@@ -1,6 +1,6 @@
 # IITB-CPU – EE224 Course Project
 
-A simple 16-bit CPU designed and implemented in **VHDL** as part of the **EE224: Digital Systems** course at **IIT Bombay**, taught by **Prof. Virendra Singh**.
+A simple 16-bit RISC-style **multicycle CPU** designed and implemented in **VHDL** as part of the **EE224: Digital Systems** course at **IIT Bombay**, taught by **Prof. Virendra Singh**.
 
 ## Project Overview
 
